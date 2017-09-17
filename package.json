@@ -1,0 +1,15 @@
+{
+  "name": "mon-app",
+  "description": "rien pour le moment",
+  "version": "0.1.0",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mattheex/Node.js.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  }
+}
